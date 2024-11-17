@@ -43,6 +43,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "InTheHand.BluetoothLE": {
+              "target": "Package",
+              "version": "[4.0.37, )"
+            },
+            "Q42.HueApi": {
+              "target": "Package",
+              "version": "[3.23.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

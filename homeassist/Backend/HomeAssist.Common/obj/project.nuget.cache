@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "BWBynUVvXcewPWISR6zHrFZMcPC0Lch5qgqXrH1M39fiBAcCBbZa6fECWfYMc10MkjzPWatDTr2m5fSAS8Yk0w==",
+  "dgSpecHash": "ihMeuemyLjMvXMh5boHRH1XezLjLix8RpbnOgMVDOFDeJXoRCevCRBBUoDg7le/AN9tfcJHKqdiztf4Rkbfv4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\charl\\Desktop\\HomeAsist\\homeassist\\Backend\\HomeAssist.Common\\HomeAssist.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\inthehand.bluetoothle\\4.0.37\\inthehand.bluetoothle.4.0.37.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\linux.bluetooth\\5.66.0\\linux.bluetooth.5.66.0.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\q42.hueapi\\3.23.1\\q42.hueapi.3.23.1.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\tmds.dbus\\0.15.0\\tmds.dbus.0.15.0.nupkg.sha512"
+  ],
   "logs": []
 }
