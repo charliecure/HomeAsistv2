@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAssist.API", "HomeAssist.API\HomeAssist.API.csproj", "{F9F51AA1-F66F-4CE0-A8B0-F9D64F481370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAssist.Common", "HomeAssist.Common\HomeAssist.Common.csproj", "{E6C99B84-BA35-46BD-82C8-C398DAE20C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAssist.Data", "HomeAssist.Data\HomeAssist.Data.csproj", "{646A4B05-F470-4C18-B62E-5EE09D972E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F51AA1-F66F-4CE0-A8B0-F9D64F481370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F51AA1-F66F-4CE0-A8B0-F9D64F481370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F51AA1-F66F-4CE0-A8B0-F9D64F481370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F51AA1-F66F-4CE0-A8B0-F9D64F481370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C99B84-BA35-46BD-82C8-C398DAE20C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C99B84-BA35-46BD-82C8-C398DAE20C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C99B84-BA35-46BD-82C8-C398DAE20C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C99B84-BA35-46BD-82C8-C398DAE20C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646A4B05-F470-4C18-B62E-5EE09D972E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646A4B05-F470-4C18-B62E-5EE09D972E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646A4B05-F470-4C18-B62E-5EE09D972E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646A4B05-F470-4C18-B62E-5EE09D972E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
